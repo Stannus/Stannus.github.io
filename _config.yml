@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://Stannus.github.io'
-baseurl:          '/Stannus'
+url:              'https://stannus.github.io'
+baseurl:          '/stannus'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
